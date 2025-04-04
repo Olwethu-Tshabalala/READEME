@@ -1,0 +1,2 @@
+# READEME
+the purpose of my app is to provide meal suggestions for different times of the day by selecting either morning, afternoon, mid-afternoon, night and dessert. any invalid options typed in will not pop up on the meal plans. It also comes with a reset button which allows for the menu's to reset.which overall allows for a better experience.The app is designed for users seeking quick meal ideas and serves as a simple, interactive meal planner.
